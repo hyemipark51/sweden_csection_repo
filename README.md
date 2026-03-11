@@ -53,3 +53,5 @@ source("R/01_download_and_clean.R")
 source("R/02_analysis_figures.R")
 rmarkdown::render("report/analysis.Rmd")
 ```
+
+## [Full report](report/analysis.md)
