@@ -54,4 +54,4 @@ source("R/02_analysis_figures.R")
 rmarkdown::render("report/analysis.Rmd")
 ```
 
-## [Full report](report/analysis.md)
+[Full report](/report/analysis.md)
